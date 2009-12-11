@@ -29,5 +29,5 @@ setup(
     packages=[
         'django-grappelli',
         ],
-    provides=['django-grappelli'],
+    provides=['grappelli'],
     )
