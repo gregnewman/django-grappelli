@@ -25,5 +25,7 @@ setup(
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         ],
-    packages=find_packages(),
+    packages=[
+        'django-grappelli',
+        ],
     )
