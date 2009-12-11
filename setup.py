@@ -26,6 +26,6 @@ setup(
         'Programming Language :: Python',
         ],
     packages=[
-        'django-grappelli',
+        'grappelli',
         ],
     )
